@@ -9,14 +9,14 @@ the fan when the temperature reaches a certain threshold.
 ## Installation
 
 1. [Connect to your Raspberry Pi via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
-1. Clone this repo: `git clone https://github.com/quruiz/retropie-script.git`
-1. Run the setup script: `./retropie-script/script/install`
+1. Clone this repo: `git clone https://github.com/quruiz/retropie-scripts.git`
+1. Run the setup script: `./retropie-scripts/script/install`
 
 ## Uninstallation
 
 If you need to uninstall for another project or something:
 
-1. Run the uninstall script: `./retropie-script/script/uninstall`
+1. Run the uninstall script: `./retropie-scripts/script/uninstall`
 
 ## Hardware
 
