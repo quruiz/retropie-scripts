@@ -1,4 +1,4 @@
-# Retropie Scripts
+# retropie-scripts
 
 ## Description
 
@@ -24,7 +24,7 @@ You'll need a normally-open (NO) power button, 5v fan, NPN transistor, some jump
 
 Connect the power button and the fan as shown in this diagram:
 
-![Connection Diagram](https://raw.githubusercontent.com/quruiz/retropie-script/master/circuit.png)
+![Connection Diagram](https://raw.githubusercontent.com/quruiz/retropie-scripts/master/circuit.png)
 
 
 ### Is it possible to use another pin other than Pin 5 for the power button (GPIO 3/SCL)?
