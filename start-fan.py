@@ -55,5 +55,5 @@ if __name__ == '__main__':
             fan.off()
             value = False
 
-        print("temp={}\nfan={}\n".format(temp, value))
+        #print("temp={}\nfan={}\n".format(temp, value))
         time.sleep(SLEEP_INTERVAL)
