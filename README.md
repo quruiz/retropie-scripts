@@ -10,6 +10,8 @@ the fan when the temperature reaches a certain threshold.
 
 1. [Connect to your Raspberry Pi via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
 1. Clone this repo: `git clone https://github.com/quruiz/retropie-scripts.git`
+1. If pip is not already installed run: `sudo apt install python3-pip`
+1. Install requirements globally: `sudo pip3 install -r retropie-script/requirements.txt`
 1. Run the setup script: `./retropie-scripts/script/install`
 
 ## Uninstallation
